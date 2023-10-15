@@ -1,0 +1,12 @@
+{
+     "token": "",
+     "prefix": "",
+     "admin_roleid": "",
+     "channel_statsadmin": "",
+     "old_esx": {
+          "user_accounts": false,
+          "user_inventory": false
+     },
+     "log_channel":"",
+     "identifier": "license"
+}
