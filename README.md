@@ -16,7 +16,7 @@ By 100regret ( mapesWeb )
 
 # Installation
 
-1. Ouvrir le cmd dans la racine et faire 'npm i' pour installer les NodeModules
+1. Ouvrir le `cmd` dans la racine et faire `npm i` pour installer les Modules
 2. Installer la ressource et ajouter à votre répertoire de ressources
 3. Ajouter `ensure mDiscord` dans votre `server.cfg`
 4. Vérifier les ressources nécessaire au bon fonctionnement ci-dessous
